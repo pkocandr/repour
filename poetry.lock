@@ -36,7 +36,7 @@ python-versions = ">=3.5.3"
 
 [[package]]
 name = "asyncssh"
-version = "2.6.0"
+version = "2.7.2"
 description = "AsyncSSH: Asynchronous SSHv2 client and server library"
 category = "main"
 optional = false
@@ -532,7 +532,7 @@ testing = ["pytest (>=3.5,!=3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.6"
-content-hash = "483a826c8e3b6b3072f3456a4dc10ab110c271530099bf416eb01349da6a2cdd"
+content-hash = "a054410f8d029990a5e9b0c46a9b66c3f2c5fb4256c0ec2116cc1b931f715462"
 
 [metadata.files]
 aiohttp = [
@@ -583,8 +583,8 @@ async-timeout = [
     {file = "async_timeout-3.0.1-py3-none-any.whl", hash = "sha256:4291ca197d287d274d0b6cb5d6f8f8f82d434ed288f962539ff18cc9012f9ea3"},
 ]
 asyncssh = [
-    {file = "asyncssh-2.6.0-py3-none-any.whl", hash = "sha256:254bd3c2f9004e093b82e9a09e05521a5ddd035cd5f024df764fdd0510ff1f07"},
-    {file = "asyncssh-2.6.0.tar.gz", hash = "sha256:20f0ef553a1e64a7d38db86ba3a2f3907e72f1e81f3dfec5edb191383783c7d1"},
+    {file = "asyncssh-2.7.2-py3-none-any.whl", hash = "sha256:18ab9ab416ba40dead5183fe6d13665aae63a29890fb7181c061ba8fc81bac1a"},
+    {file = "asyncssh-2.7.2.tar.gz", hash = "sha256:96b09239c3cc134cfb66ae1138313fdb48cc390806f21f831dd44f8a1d8252a1"},
 ]
 attrs = [
     {file = "attrs-20.3.0-py2.py3-none-any.whl", hash = "sha256:31b2eced602aa8423c2aea9c76a724617ed67cf9513173fd3a4f03e3a929c7e6"},
