@@ -490,7 +490,7 @@ testing = ["coverage (>=4)", "coverage-enable-subprocess (>=1)", "flaky (>=3)", 
 
 [[package]]
 name = "voluptuous"
-version = "0.12.1"
+version = "0.13.0"
 description = ""
 category = "main"
 optional = false
@@ -532,7 +532,7 @@ testing = ["pytest (>=3.5,!=3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.6"
-content-hash = "483a826c8e3b6b3072f3456a4dc10ab110c271530099bf416eb01349da6a2cdd"
+content-hash = "5fcde1218f7058d1f84e11ace60e5cb93bd04a3c228def9047a30b293abe92e8"
 
 [metadata.files]
 aiohttp = [
@@ -888,8 +888,8 @@ virtualenv = [
     {file = "virtualenv-20.4.2.tar.gz", hash = "sha256:147b43894e51dd6bba882cf9c282447f780e2251cd35172403745fc381a0a80d"},
 ]
 voluptuous = [
-    {file = "voluptuous-0.12.1-py3-none-any.whl", hash = "sha256:8ace33fcf9e6b1f59406bfaf6b8ec7bcc44266a9f29080b4deb4fe6ff2492386"},
-    {file = "voluptuous-0.12.1.tar.gz", hash = "sha256:663572419281ddfaf4b4197fd4942d181630120fb39b333e3adad70aeb56444b"},
+    {file = "voluptuous-0.13.0-py3-none-any.whl", hash = "sha256:e3b5f6cb68fcb0230701b5c756db4caa6766223fc0eaf613931fdba51025981b"},
+    {file = "voluptuous-0.13.0.tar.gz", hash = "sha256:cae6a4526b434b642816b34a00e1186d5a5f5e0c948ab94d2a918e01e5874066"},
 ]
 wrapt = [
     {file = "wrapt-1.12.1.tar.gz", hash = "sha256:b62ffa81fb85f4332a4f609cab4ac40709470da05643a082ec1eb88e6d9b97d7"},
